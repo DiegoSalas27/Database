@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="agregar_contacto">agregar contacto</string>
+    <string name="nombre">nombre</string>
+    <string name="telefono">telefono</string>
+    <string name="agregar">agregar</string>
+    <string name="mostrar_base_de_datos">mostrar base de datos</string>
+</resources>
